@@ -6,16 +6,55 @@
         <fileset id="fileset" name="Spring Application Context" removed="false">
           <file>file://$MODULE_DIR$/src/spring-config.xml</file>
         </fileset>
+        <fileset id="fileset4" name="Spring Application Context (4)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson3.xml</file>
+        </fileset>
+        <fileset id="fileset5" name="Spring Application Context (5)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson4.xml</file>
+        </fileset>
+        <fileset id="fileset6" name="Spring Application Context (6)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson5.xml</file>
+        </fileset>
+        <fileset id="fileset7" name="Spring Application Context (7)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson6.xml</file>
+        </fileset>
+        <fileset id="fileset8" name="Spring Application Context (8)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson7.xml</file>
+        </fileset>
+        <fileset id="fileset9" name="Spring Application Context (9)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson8.xml</file>
+        </fileset>
         <fileset id="fileset2" name="Spring Application Context (2)" removed="false">
-          <file>file://$MODULE_DIR$/src/main/java/beanFactory/lesson2/spring.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson2.xml</file>
         </fileset>
         <fileset id="fileset3" name="Spring Application Context (3)" removed="false">
-          <file>file://$MODULE_DIR$/src/main/java/beanFactory/lesson2/spring.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson2.xml</file>
+        </fileset>
+        <fileset id="fileset10" name="Spring Application Context (10)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson9.xml</file>
+        </fileset>
+        <fileset id="fileset11" name="Spring Application Context (11)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson10.xml</file>
+        </fileset>
+        <fileset id="fileset12" name="Spring Application Context (12)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson11.xml</file>
+        </fileset>
+        <fileset id="fileset13" name="Spring Application Context (13)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson12.xml</file>
+        </fileset>
+        <fileset id="fileset14" name="Spring Application Context (14)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson13.xml</file>
+        </fileset>
+        <fileset id="fileset15" name="Spring Application Context (15)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson14.xml</file>
+        </fileset>
+        <fileset id="fileset16" name="Spring Application Context (16)" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lesson15.xml</file>
         </fileset>
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
